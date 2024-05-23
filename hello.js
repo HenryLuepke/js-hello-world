@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
+console.log(7);
+console.log(7 + 13);
 console.log("Hello");
+console.log("World!");
+process.stdout.write("This is printed without a trailing newline");
+console.log("Hello World");
+console.log("Quoth the Raven \"Nevermore\"")
 
 /*  
 Next, PLAY! 
